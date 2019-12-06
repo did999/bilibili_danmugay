@@ -1,7 +1,7 @@
 # bilibili_danmugay
 自动发送弹幕/歌单点歌/聊天机器人等......
 
-教程：https://love.lirvdi.com/2019/12/03/半自动弹幕发射机
+教程：https://love.lirvdi.com/半自动弹幕发射机
 
 参考链接：
 
